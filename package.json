@@ -12,6 +12,6 @@
     "laravel-mix": "^6.0.43"
   },
   "dependencies": {
-    "keen-slider": "^6.6.5"
+    "swiper": "^8.1.0"
   }
 }
